@@ -296,3 +296,4 @@ Program Finished'''
 Your interactions in this chat have increased!
 Program Finished'''
         assert expected_res == res.output[:res.output[:-1].rfind('\n')]
+
